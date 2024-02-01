@@ -10,6 +10,7 @@
 - [Cash Register]()
 - [Pok&#233;mon Search App](https://github.com/purpl3pineapple/fcc/tree/main/pokemon-search-app "Pokémon Search App")
 
+
 ---
 
 ### Front-End Development Libraries
