@@ -17,3 +17,5 @@
 - Random Quotes
 - [Drum Pad Machine](https://github.com/purpl3pineapple/fcc/tree/main/drum-machine "Drum Pad Machine App")
   - Frameworks: jQuery
+- [25 + 5 Clock](https://github.com/purpl3pineapple/fcc/tree/main/drum-machine "25 + 5 Clock App")
+  - Frameworks: jQuery
